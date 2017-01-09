@@ -1,2 +1,4 @@
 # hello-world
-a new repository
+
+Hi peeps!
+My first hello world repositry under construction. 
